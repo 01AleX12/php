@@ -26,8 +26,8 @@
         margin: 0;
         padding: 0;
     }
-
 </style>
+
 <h2>Comparar Longitud de Cadenas de Texto</h2>
 
 <?php
